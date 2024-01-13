@@ -28,5 +28,5 @@ To run the Cat vs Dog Classification project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cat-vs-dog-classification.git
-   cd cat-vs-dog-classification
+   git clone https://github.com/nirajkark/cat-dog_classification.git
+   cd cat-dog_classification
