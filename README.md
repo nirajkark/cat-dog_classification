@@ -7,12 +7,11 @@ Classify images of cats and dogs using a MobileNet-based deep learning model. Th
 - [Introduction]
 - Classify images of cats and dogs using a MobileNet-based deep learning model. The dataset is sourced from Kaggle.
 - [Dataset]
-- 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
+- https://www.kaggle.com/c/dogs-vs-cats/data
+
+- [Model Training]
+- mobile_net architecture is used
+
 
 ## Introduction
 
